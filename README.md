@@ -1,4 +1,4 @@
-# ![](/home/user/Downloads/jrSoldasLogo.svg) **jRSoldas**
+# <img src=jrSoldasLogo.svg width=40px></igm> **jRSoldas**
 
 Serviços de soldas na região de Goiás:
 
