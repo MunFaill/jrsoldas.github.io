@@ -2,7 +2,7 @@
 
 Serviços de soldas na região de Goiás:
 
-- Solda Industrial, incluindo mas não limitado à:
+- Solda Industrial em:
     * Aço carbono;
     * Ferro fundido;
     * Inox;
